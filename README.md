@@ -1,9 +1,11 @@
+
 ## Leetcode-solutions
 This repository contains solutions of all the leetcode problems.
 
-1. [ ](/CPP/1.cpp)
+
+1. [Two Sum](/CPP/1.cpp)
 2. [ ](/CPP/2.cpp)
-3. [ ](/CPP/3.cpp)
+3. [Longest Substring Without Repeating Characters](/CPP/3.cpp)
 4. [ ](/CPP/4.cpp)
 5. [ ](/CPP/5.cpp)
 6. [ ](/CPP/6.cpp)
@@ -20,7 +22,7 @@ This repository contains solutions of all the leetcode problems.
 17. [ ](/CPP/17.cpp)
 18. [ ](/CPP/18.cpp)
 19. [ ](/CPP/19.cpp)
-20. [ ](/CPP/20.cpp)
+20. [Valid Parentheses](/CPP/20.cpp)
 21. [ ](/CPP/21.cpp)
 22. [ ](/CPP/22.cpp)
 23. [ ](/CPP/23.cpp)
